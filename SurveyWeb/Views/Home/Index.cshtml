@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "Autenticação do Usuário";
+}
+@section Scripts {
+    <script type="text/javascript" src="~/js/Util.js"></script>
+    <script type="text/javascript" src="~/js/Views/Home.js"></script>
+}
+
+<form name="formValidar" id="formValidar">
+    <div class="form-group">
+        <label for="txtEmail">Informe seu e-mail:</label>
+        <input type="email" name="txtEmail" id="txtEmail"
+               required class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="txtSenha">Senha de acesso:</label>
+        <input type="password" name="txtSenha" id="txtSenha"
+               class="form-control" />
+    </div>
+    <div class="form-inline">
+        <button type="button" name="btnValidarAcesso" id="btnValidarAcesso" class="btn btn-success">Validar acesso</button>
+        <a role="button" class="btn btn-primary" data-fancybox data-src="#novoUsuario" href="javascript:;">Criar novo usuário</a>
+    </div>
+    <div class="form-group">
+        <label>
+            <a href="javascript:;" data-fancybox data-src="#esqueciSenha"> Recuperar minha senha de acesso</a>
+        </label>
+    </div>
+    <br />
+    <div id="divAlerta" class="alert alert-danger" role="alert" style="display:none"></div>
+</form>
+
+@*Fancybox NOVO USUÁRIO*@
+<div style="display: none; min-width: 300px; width: 600px" id="novoUsuario">
+    <h3>Novo Usuário</h3>
+    <form name="formNovoUsuario" id="formNovoUsuario">
+        <div class="form-group">
+            <label for="txtEmail">Informe seu e-mail:</label>
+            <input type="email" name="txtEmailNovo" id="txtEmailNovo" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="txtNome">Nome:</label>
+            <input type="text" name="txtNomeNovo" id="txtNomeNovo" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="txtSenha">Defina sua senha:</label>
+            <input type="password" name="txtSenhaNovo" id="txtSenhaNovo" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="txtSenha2">Confirme sua senha:</label>
+            <input type="password" name="txtSenhaNovo2" id="txtSenhaNovo2" class="form-control" />
+        </div>
+        <div class="form-inline">
+            <button type="button" name="btnConfirmar" id="btnConfirmar" class="btn btn-success">Confirmar</button>
+            <button type="button" name="btnCancelar" id="btnCancelar" class="btn btn-danger"
+                    onclick="javascript: $.fancybox.close();">
+                Cancelar
+            </button>
+        </div>
+    </form>
+    <div id="divAlertaNovoUsuario" class="alert alert-danger" role="alert" style="display:none"></div>
+</div>
+
+@*FancyBox ESQUECI MINHA SENHA*@
+<div style="display: none; min-width: 300px; width: 600px" id="esqueciSenha">
+    <h3>Recuperar minha senha</h3>
+    <form>
+        <div class="form-group">
+            <label for="txtEmailRecuperar">Informe seu e-mail:</label>
+            <input type="email" name="txtEmailRecuperar" id="txtEmailRecuperar" class="form-control" />
+        </div>
+        <div class="form-inline">
+            <button type="button" name="btnEnviarRecuperar" id="btnEnviarRecuperar" class="btn btn-success">Recuperar senha</button>
+            <button type="button" name="btnCancelarRecuperar" id="btnCancelarRecuperar" class="btn btn-danger"
+                    onclick="javascript: $.fancybox.close();">
+                Cancelar
+            </button>
+        </div>
+    </form>
+    <div id="divAlertaRecuperar" class="alert alert-danger" role="alert" style="display:none"></div>
+</div>

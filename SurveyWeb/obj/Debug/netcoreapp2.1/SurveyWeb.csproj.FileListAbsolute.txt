@@ -1,0 +1,16 @@
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyWeb.deps.json
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyWeb.runtimeconfig.json
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyWeb.runtimeconfig.dev.json
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyWeb.dll
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyWeb.pdb
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\Survey.dll
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyEF.dll
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\SurveyEF.pdb
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\bin\Debug\netcoreapp2.1\Survey.pdb
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.csprojAssemblyReference.cache
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.csproj.CoreCompileInputs.cache
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.AssemblyInfoInputs.cache
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.AssemblyInfo.cs
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.csproj.CopyComplete
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.dll
+C:\Users\dukdu\Desktop\Survey\SurveyWeb\obj\Debug\netcoreapp2.1\SurveyWeb.pdb

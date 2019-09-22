@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Pergunta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Pergunta</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th colspan="4">@ViewData["titulo"]</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Descrição:</td>
+            <td colspan="3">@ViewData["Descricao"]</td>
+        </tr>
+        <tr>
+            <td>Dica:</td>
+            <td colspan="3">@ViewData["Dica"]</td>
+        </tr>
+    </tbody>
+</table>
