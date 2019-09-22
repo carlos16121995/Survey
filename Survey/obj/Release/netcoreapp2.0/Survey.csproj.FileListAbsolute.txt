@@ -1,0 +1,9 @@
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\bin\Release\netcoreapp2.0\Survey.deps.json
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\bin\Release\netcoreapp2.0\Survey.dll
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\bin\Release\netcoreapp2.0\Survey.pdb
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\obj\Release\netcoreapp2.0\Survey.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\obj\Release\netcoreapp2.0\Survey.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\obj\Release\netcoreapp2.0\Survey.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\obj\Release\netcoreapp2.0\Survey.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\obj\Release\netcoreapp2.0\Survey.dll
+C:\Users\Eduardo\Desktop\Aulas\2019-1-PI-IV\Core\Survey\Survey\obj\Release\netcoreapp2.0\Survey.pdb
