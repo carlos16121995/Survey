@@ -1,0 +1,22 @@
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.deps.json
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.runtimeconfig.json
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.runtimeconfig.dev.json
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.dll
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.pdb
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.csprojAssemblyReference.cache
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.csproj.CoreCompileInputs.cache
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.AssemblyInfoInputs.cache
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.AssemblyInfo.cs
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.dll
+C:\Users\dukdu\Documents\Códigos\Net Core\SurveyEF\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.pdb
+C:\Users\dukdu\Desktop\Survey\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.deps.json
+C:\Users\dukdu\Desktop\Survey\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.runtimeconfig.json
+C:\Users\dukdu\Desktop\Survey\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.runtimeconfig.dev.json
+C:\Users\dukdu\Desktop\Survey\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.dll
+C:\Users\dukdu\Desktop\Survey\SurveyEF\bin\Debug\netcoreapp2.1\SurveyEF.pdb
+C:\Users\dukdu\Desktop\Survey\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.csprojAssemblyReference.cache
+C:\Users\dukdu\Desktop\Survey\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.csproj.CoreCompileInputs.cache
+C:\Users\dukdu\Desktop\Survey\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.AssemblyInfoInputs.cache
+C:\Users\dukdu\Desktop\Survey\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.AssemblyInfo.cs
+C:\Users\dukdu\Desktop\Survey\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.dll
+C:\Users\dukdu\Desktop\Survey\SurveyEF\obj\Debug\netcoreapp2.1\SurveyEF.pdb
